@@ -147,11 +147,6 @@ class _homeScreenState extends State<homeScreen> {
                                 60000000);
 
                             navigateTo(context, resultScreen());
-                            print(Phi);
-                            print(PHi_s);
-                            print(Ac);
-                            print(Fc);
-                            print(power);
 
                           });
                         }
